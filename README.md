@@ -68,4 +68,4 @@ pawangbisht@gmail.com
 
 ---
 
-If you found this project helpful, consider giving it a star on GitHub!!!
+If you found this project helpful, consider giving it a star on GitHub!
